@@ -1,0 +1,38 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: Le répertoire intermédiaire (x64\Release\) contient des fichiers partagés provenant d'un autre projet (SFML-Learning_1.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  input.cpp
+  main.cpp
+C:\Users\lance\Desktop\Dev\C++\(3) Learning\z Floppy Sparrow\SFML-Premier_Jeu(FlappyBird_copy) Complete\main.h(18,50): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\lance\Desktop\Dev\C++\(3) Learning\z Floppy Sparrow\SFML-Premier_Jeu(FlappyBird_copy) Complete\main.cpp(92,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\lance\Desktop\Dev\C++\(3) Learning\z Floppy Sparrow\SFML-Premier_Jeu(FlappyBird_copy) Complete\main.cpp(100,54): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\lance\Desktop\Dev\C++\(3) Learning\z Floppy Sparrow\SFML-Premier_Jeu(FlappyBird_copy) Complete\main.cpp(101,69): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\lance\Desktop\Dev\C++\(3) Learning\z Floppy Sparrow\SFML-Premier_Jeu(FlappyBird_copy) Complete\main.cpp(108,49): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\lance\Desktop\Dev\C++\(3) Learning\z Floppy Sparrow\SFML-Premier_Jeu(FlappyBird_copy) Complete\main.cpp(109,53): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\lance\Desktop\Dev\C++\(3) Learning\z Floppy Sparrow\SFML-Premier_Jeu(FlappyBird_copy) Complete\main.cpp(480,91): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\lance\Desktop\Dev\C++\(3) Learning\z Floppy Sparrow\SFML-Premier_Jeu(FlappyBird_copy) Complete\main.cpp(480,59): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\lance\Desktop\Dev\C++\(3) Learning\z Floppy Sparrow\SFML-Premier_Jeu(FlappyBird_copy) Complete\main.cpp(481,138): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\lance\Desktop\Dev\C++\(3) Learning\z Floppy Sparrow\SFML-Premier_Jeu(FlappyBird_copy) Complete\main.cpp(481,60): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\lance\Desktop\Dev\C++\(3) Learning\z Floppy Sparrow\SFML-Premier_Jeu(FlappyBird_copy) Complete\main.cpp(487,21): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\lance\Desktop\Dev\C++\(3) Learning\z Floppy Sparrow\SFML-Premier_Jeu(FlappyBird_copy) Complete\main.cpp(488,22): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\lance\Desktop\Dev\C++\(3) Learning\z Floppy Sparrow\SFML-Premier_Jeu(FlappyBird_copy) Complete\main.cpp(504,64): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\lance\Desktop\Dev\C++\(3) Learning\z Floppy Sparrow\SFML-Premier_Jeu(FlappyBird_copy) Complete\main.cpp(505,110): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Génération de code en cours
+  Previous IPDB not found, fall back to full compilation.
+  All 147 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  SFML-Origin_Project.vcxproj -> C:\Users\lance\Desktop\Dev\C++\(3) Learning\z Floppy Sparrow\SFML-Premier_Jeu(FlappyBird_copy) Complete\x64\Release\SFML-Origin_Project.exe

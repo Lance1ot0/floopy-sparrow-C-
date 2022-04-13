@@ -1,0 +1,5 @@
+C:\Users\lance\Desktop\Dev\C++\SFML-Origin_Project\x64\Debug\SFML-Origin_Project.exe
+C:\Users\lance\Desktop\Dev\C++\Learning\SFML-Premier_Jeu\x64\Debug\SFML-Origin_Project.exe
+C:\Users\lance\Desktop\Dev\C++\Learning\SFML-Premier_Jeu(FlappyBird_copy)\x64\Debug\SFML-Origin_Project.exe
+C:\Users\lance\Desktop\Dev\C++\Learning\Floppy Sparrow\SFML-Premier_Jeu(FlappyBird_copy) Complete\x64\Debug\SFML-Origin_Project.exe
+C:\Users\lance\Desktop\Dev\C++\(3) Learning\z Floppy Sparrow\SFML-Premier_Jeu(FlappyBird_copy) Complete\x64\Debug\SFML-Origin_Project.exe

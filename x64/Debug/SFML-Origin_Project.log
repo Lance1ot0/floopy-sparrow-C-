@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: Le répertoire intermédiaire (x64\Debug\) contient des fichiers partagés provenant d'un autre projet (SFML-Origin_Project.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  SFML-Origin_Project.vcxproj -> C:\Users\lance\Desktop\Dev\C++\(3) Learning\z Floppy Sparrow\SFML-Premier_Jeu(FlappyBird_copy) Complete\x64\Debug\SFML-Origin_Project.exe
